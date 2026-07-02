@@ -14,7 +14,6 @@ env/
 .env
 
 # Built executables / zipapps
-*.pyz
 *.zip
 
 # Logs and Reports
